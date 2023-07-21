@@ -7,7 +7,6 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.time.LocalDate;
 public class Holiday {
-    // ... (existing properties and methods)
     private String country;
     private LocalDate date;
     private String name;
